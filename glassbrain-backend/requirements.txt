@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-jose
+bcrypt
+sqlalchemy
+psycopg2-binary
+psycopg
+python-dotenv
+requests
